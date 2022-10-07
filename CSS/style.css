@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@300;400;500;600;700;800&display=swap');
 :root {
     --main-color: #075dc6;
     --text-bg: rgb(7, 93, 198, 0.5);
@@ -14,7 +15,7 @@
     box-sizing: border-box;
 }
 body {
-    font-family: cairo;
+    font-family: 'Cairo', sans-serif;;
 }
 body::-webkit-scrollbar{
     display: none;
